@@ -6,7 +6,7 @@ A new Flutter project.
 
 This project is a starting point for a Flutter application.
 <h1 align="center">
-  <img alt="food_app_icon" src="https://github.com/AdjaroPatoussi/magicball/blob/main/screnn/Screenshot_20220914_130323.png" width="200px"/><br/>
+  <img alt="food_app_icon" src="https://github.com/AdjaroPatoussi/destinity/blob/main/screen/Screenshot_20220916_112028.png" width="200px"/><br/>
   destiniti
   
 </h1>
